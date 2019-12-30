@@ -52,6 +52,7 @@ python dist-stats.py Book1.csv Toronto
 
 ## Acknowledgments
 * TheNewBoston
+* Yelp for the dataset
 
 ## Author
 * Michael Oppong
